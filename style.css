@@ -5,3 +5,22 @@ body  {
 h1 {
     color: #7f8e0a;
 }
+
+img {
+    width: 100%;
+    max-width: 800px;
+}
+
+.card {
+    display: inline-block;
+}
+
+
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+.footernav {
+    margin-bottom: 0;
+}
